@@ -108,7 +108,7 @@ describe User do
   #   it 'sets the role' do
 
   #   end
-  # end
+  # end   xxx
 
   it 'checks for a password confirmation only when a password is present on update'
   it 'only requires a password on create'
